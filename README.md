@@ -1,7 +1,7 @@
 i3 configuration and other utils
 ================================
 
-This is my custom i3 config, alongside custom scripts and utils.
+This is my custom i3 config, alongside other custom scripts and utils.
 
 Features include:
   * Dual monitor xrandr auto-setup (detection on **DP-2**)
